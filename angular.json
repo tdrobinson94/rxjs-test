@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "test-rxjs"
+  "defaultProject": "test-rxjs",
+  "cli": {
+    "analytics": "0f0bcfc3-a944-4496-ae28-058849344842"
+  }
 }
